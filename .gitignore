@@ -1,11 +1,11 @@
 # Unity generated
-   [Ll]ibrary/
-   [Tt]emp/
-   [Oo]bj/
-   [Bb]uild/
-   [Bb]uilds/
-   [Ll]ogs/
-   [Uu]ser[Ss]ettings/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
 
 # Never ignore Asset meta data
 ![Aa]ssets/**/*.meta
@@ -58,6 +58,6 @@ crashlytics-build.properties
 [Aa]ssets/[Ss]treamingAssets/aa.meta
 [Aa]ssets/[Ss]treamingAssets/aa/*
 # Ignore all contents of the models folder
-Assets/StreamingAssets/models/*
+Assets/StreamingAssets/models/**
 # But keep the folder itself
 !Assets/StreamingAssets/models/.gitkeep
