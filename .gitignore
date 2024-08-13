@@ -60,4 +60,4 @@ crashlytics-build.properties
 # Ignore all contents of the models folder
 Assets/StreamingAssets/models/**
 # But keep the folder itself
-!Assets/StreamingAssets/models/.gitkeep
+!Assets/StreamingAssets/models/.gitkeepTemp/__Backupscenes/
